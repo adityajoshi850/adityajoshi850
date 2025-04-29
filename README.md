@@ -8,7 +8,7 @@
 - 👀 I’m interested in **Web Development**  
 - 🌱 I’m currently learning **Backend Development with Next.js, TypeScript & Tailwind CSS**  
 - 💞️ I’m looking to collaborate on **Open-source projects, MERN stack applications, and backend-focused projects**  
-- 📫 How to reach me: **LinkedIn:(https://www.linkedin.com/in/aditya-joshi-500510242/ |  Email:joshi55aditya@gmail.com**  
+- 📫 How to reach me: **LinkedIn:(https://www.linkedin.com/in/aditya-joshi-500510242/ |  Email:joshi55aditya@gmail.com | Portfolio:https://www.adityaj.com.np/**
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love exploring productivity tools and optimizing workflows!**  
 
